@@ -1,0 +1,10 @@
+{
+  "pdf_chunking": {
+    "enabled": false,
+    "max_file_size": 299892736,
+    "max_pages": 800,
+    "chunk_size": 149946368,
+    "max_pages_per_chunk": 400
+  },
+  "api_key": "eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJqdGkiOiI2NjQwMDY3NiIsInJvbCI6IlJPTEVfUkVHSVNURVIiLCJpc3MiOiJPcGVuWExhYiIsImlhdCI6MTc3NDcxNjgwMSwiY2xpZW50SWQiOiJsa3pkeDU3bnZ5MjJqa3BxOXgydyIsInBob25lIjoiMTczNzExMjA4NjQiLCJvcGVuSWQiOm51bGwsInV1aWQiOiJiZmYxOWE5NC1lYmQ5LTQ0NTYtOTY0Mi0zYTU5NTFmODg3NWEiLCJlbWFpbCI6IiIsImV4cCI6MTc4MjQ5MjgwMX0.VmwFqFBZ7nZ1BZO3g2X-yCKFkf7BO2i8mw_ejEw57L1-tWXIkVyhGQnyT7a6eKQ_wvdOhatxwtaa2W-avTVFIA"
+}

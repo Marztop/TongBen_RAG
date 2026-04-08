@@ -1,0 +1,8 @@
+# 此文件不再需要！
+# 
+# 如果调用 MinerU 官方 API，直接在 RAGFlow docker/.env 中配置：
+#
+# MINERU_APISERVER=https://api.mineru.net
+# MINERU_API_KEY=your-official-api-key
+#
+# 然后 RAGFlow 会使用官方 API 来解析 PDF，无需本地部署 MinerU

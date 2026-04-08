@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.installed.cfg
+*.egg
+dist/
+build/
+*.pyc
+
+# Virtual environments
+.venv/
+/env/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Environment files (sensitive data)
+.env
+.env.local
+.env.*.local
+.env.single-bucket-example
+keys.json
+config.local.json
+
+# Docker volumes and data directories (recreate on new machine)
+dify/volumes/
+dify/esdata01/
+dify/mysql_data/
+dify/redis_data/
+dify/minio_data/
+
+ragflow/esdata01/
+ragflow/mysql_data/
+ragflow/redis_data/
+ragflow/minio_data/
+ragflow/oceanbase/
+ragflow/tmp/
+
+mineru-proxy/cache/
+mineru-proxy/logs/
+mineru-proxy/.env.local
+
+# Logs and temporary files
+*.log
+logs/
+*.log.*
+/tmp/
+/tmp_*/
+*.tmp
+
+# Cache
+.cache/
+cache/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
